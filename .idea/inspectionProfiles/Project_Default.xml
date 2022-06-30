@@ -1,0 +1,126 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="sytle" />
+            <item index="7" class="java.lang.String" itemvalue="li" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="1" class="java.lang.String" itemvalue="Pillow" />
+            <item index="2" class="java.lang.String" itemvalue="rest_framework" />
+            <item index="3" class="java.lang.String" itemvalue="Django" />
+            <item index="4" class="java.lang.String" itemvalue="backports.zoneinfo" />
+            <item index="5" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="6" class="java.lang.String" itemvalue="djangorestframework-simplejwt" />
+            <item index="7" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="8" class="java.lang.String" itemvalue="tzdata" />
+            <item index="9" class="java.lang.String" itemvalue="asgiref" />
+            <item index="10" class="java.lang.String" itemvalue="django-dotenv" />
+            <item index="11" class="java.lang.String" itemvalue="pytz" />
+            <item index="12" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="13" class="java.lang.String" itemvalue="django-cors-headers" />
+            <item index="14" class="java.lang.String" itemvalue="sqlparse" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E128" />
+          <option value="E111" />
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyRedeclarationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="api.models.RendBook.obects" />
+          <option value="api.models.LibUser.objects" />
+          <option value="api.models.Book.objects" />
+          <option value="api.models.RendBook.objects" />
+          <option value="api.models.BookCategory.objects" />
+          <option value="products.models.Shina.objects" />
+          <option value="products.views.ShinacategorySerializers" />
+          <option value="products.models.ShinaCategory.objects" />
+          <option value="api1.models.Shina.objects" />
+          <option value="config.router.api.viewset" />
+          <option value="config.urls.rest_framework" />
+          <option value="api.models.Shina.objects" />
+          <option value="api.models.ShinaCategory.objects" />
+          <option value="api1.models.Gopharm.objects" />
+          <option value="category.models.Category.objects" />
+          <option value="products.models.Products.objects" />
+          <option value="product.models.Product.objects" />
+          <option value="django.db.models.fields.related.ForeignKey.username" />
+          <option value="cart.models.CardItem.objects" />
+          <option value="cart.models.Card.objects" />
+          <option value="str.CardList" />
+          <option value="category.models.Subcategory.objects" />
+          <option value="cart.models.Cart.objects" />
+          <option value="cart.models.Order.objects" />
+          <option value="api1.models.Gopharm.number" />
+          <option value="card.models.CardItem.objects" />
+          <option value="card.models.Card.objects" />
+          <option value="cart.models.Orders.objects" />
+          <option value="Product" />
+          <option value="product.models.company" />
+          <option value="product.models.name" />
+          <option value="shina_product.models.Category.objects" />
+          <option value="django_filters.filters.SearchFilter" />
+          <option value="shina_product.models.Datchik.objects" />
+          <option value="shina_product.models.Diska.objects" />
+          <option value="shina_product.models.Shina.objects" />
+          <option value="shina_product.models.Card.objects" />
+          <option value="shina_product.models.Orders.objects" />
+          <option value="shina_product.models.Yangiliklar.objects" />
+          <option value="shina__product.models.Category.objects" />
+          <option value="shina__product.models.Shina.objects" />
+          <option value="shina__product.models.Diska.objects" />
+          <option value="shina__product.models.Datchik.objects" />
+          <option value="shina__product.models.Yangiliklar.objects" />
+          <option value="shina__product.models.Card.objects" />
+          <option value="shina__product.models.Orders.objects" />
+          <option value="config.urls.*" />
+          <option value="Shina_app.models.Shina.objects" />
+          <option value="django.db.models.fields.related.ForeignKey.drug" />
+          <option value="accounts.models.phonenumber_field" />
+          <option value="accounts.api.serializers.phonenumber_field" />
+          <option value="rest_framework.serializers.PhoneNumberField" />
+          <option value="student.models.TeacherType.objects" />
+          <option value="student.models.Teacher.objects" />
+          <option value="student.models.Province.objects" />
+          <option value="student.models.Region.objects" />
+          <option value="student.models.Faculty.objects" />
+          <option value="student.models.Direction.objects" />
+          <option value="student.models.Group.objects" />
+          <option value="student.models.Student.objects" />
+          <option value="student.models.TeacherType.DoesNotExist" />
+          <option value="student.models.Teacher.DoesNotExist" />
+          <option value="django.db.models.fields.related.ForeignKey.name_ru" />
+          <option value="users.admin.CustomAdmin" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
